@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Worlds Strictest Parents - Barbados"
+title: "The World's Strictest Parents - Barbados"
 date: 2014-05-02 12:44
 comments: true
 categories: 
