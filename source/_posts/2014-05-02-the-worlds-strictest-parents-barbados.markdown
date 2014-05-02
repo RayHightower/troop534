@@ -7,7 +7,7 @@ categories:
 ---
 Two British teenagers enjoy rule-breaking behavior in their home
 country. Their parents send them to live with a strict family in
-Barbados. The predictable conflicts prove interesting. 
+Barbados. The predictable conflict proves interesting. 
 
 Warning: The video contains some profanity and adult subjects. Worth watching.
 <!--more-->
