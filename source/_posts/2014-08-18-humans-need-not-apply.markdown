@@ -9,5 +9,7 @@ We are in the middle of another economic upheval. The Scouts of Troop 534 "Hey!"
 
 <center><iframe width="560" height="315" nam="humans_need_not_apply" src="//www.youtube.com/embed/7Pq-S557XQU?rel=0" frameborder="0" allowfullscreen></iframe></center>
 
+Powerful quote: _Self driving cars don't need to be perfect. They just
+need to drive better than us._
 
 
