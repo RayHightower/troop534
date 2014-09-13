@@ -7,5 +7,13 @@ categories:
 ---
 {% imgcap middle /images/openrov_boy_scout_troop534.jpg Members of Troop 534 with OpenROV %}
 Members of Troop 534 took an [OpenROV underwater robot](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) for a spin in Lake Michigan this morning. The weather was cold (in the 40s in September) but the OpenROV held its own in the choppy lake water.
-
+<!--more-->
 {% imgcap middle /images/boy_scouts_pilot_openrov.jpg Scouts pilot OpenROV. Umbrella helps reduce screen glare. %}
+
+###What the Group Learned
+Science is all about learning from experiments, whether the experiments are successful or not. Here are a few things learned during today's water venture:
+
+* The OpenROV thrusters can handle themselves very well, even in choppy Lake Michigan water.
+* You never know how the lake might behave. Dress warm and wear waterproof boots!
+* If the lake is choppy on the surface, the water is probably kicking up silt down below. Visibility might be limited.
+
