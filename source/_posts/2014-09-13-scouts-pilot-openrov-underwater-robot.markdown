@@ -13,7 +13,7 @@ Members of Boy Scout Troop 534 took an [OpenROV underwater robot](http://rayhigh
 ###What the Group Learned
 Science is all about learning from experiments, whether the experiments are successful or not. Here are a few things learned during today's water venture:
 
-* The OpenROV thrusters can handle themselves very well, even in choppy Lake Michigan water.
+* The OpenROV thrusters can handle themselves very well, even in choppy water.
 * You never know how the lake might behave. Dress warm and wear waterproof boots!
 * If the lake is choppy on the surface, the water is probably kicking up silt down below. Visibility might be limited.
 
