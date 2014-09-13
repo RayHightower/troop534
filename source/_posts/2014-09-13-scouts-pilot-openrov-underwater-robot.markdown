@@ -15,7 +15,7 @@ Science is all about learning from experiments, whether the experiments are succ
 
 * The OpenROV thrusters can handle themselves very well, even in choppy water.
 * You never know how the lake might behave. Dress warm and wear waterproof boots.
-* If the lake is choppy on the surface, the water is probably kicking up silt down below. Visibility might be limited.
+* If the lake is choppy on the surface, the water is probably kicking up silt down below. Underwater visibility might be limited.
 
 ###Next Time
 The scouts are planning another tour, perhaps in a calmer body of
