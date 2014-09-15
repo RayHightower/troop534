@@ -8,7 +8,10 @@ categories:
 {% imgcap middle /images/openrov_boy_scout_troop534.jpg Members of Troop 534 with OpenROV %}
 Members of Boy Scout Troop 534 took an [OpenROV underwater robot](http://rayhightower.com/blog/2014/06/16/citizen-science-with-openrov/) for a spin in Lake Michigan on Saturday morning. The weather was cold (in the 40s in September) but the OpenROV held its own in the choppy lake water.
 <!--more-->
-{% imgcap middle /images/boy_scouts_pilot_openrov.jpg Scouts pilot OpenROV. Umbrella helps reduce screen glare. %}
+{% imgcap middle /images/openrov_tether_umbrella_scouts.jpg Scouts prep for OpenROV launch. Umbrella helps reduce screen glare. %}
+
+{% imgcap middle /images/boy_scouts_pilot_openrov.jpg Scouts pilot OpenROV. %}
+
 
 ###What the Group Learned
 Science is all about learning from experiments, whether the experiments are successful or not. Here are a few things learned during today's water venture:
