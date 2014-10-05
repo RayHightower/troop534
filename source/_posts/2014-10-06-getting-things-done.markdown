@@ -9,6 +9,6 @@ categories:
 
 >~Michael "Doc" Norton
 
-The next Troop 534 "Hey!" Merit Badge Session will be held Saturday, November 8, 2014 at St. Mark UMC, 8441 South St. Lawrence Ave in Chicago, IL.
+The next Troop 534 "Hey!" Merit Badge Session will begin at 8:00am on Saturday, November 8, 2014 at St. Mark UMC, 8441 South St. Lawrence Ave in Chicago, IL.
 
-Please see Ms. Karyn Aguirre at one of our upcoming Monday night meetings for details.
+Please see Ms. Karyn Aguirre at one of the Troop's Monday night meetings for details.
