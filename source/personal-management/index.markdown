@@ -42,7 +42,7 @@ Every member of Troop 534 who completes Personal Management merit badge should b
 5. Talk to Scouts who earned Personal Management Merit Badge before you. What can they tell you about the experience? 
 
 ###A Note from the Merit Badge Counselor
-Every time I work with Scouts on Personal Management Merit Badge, I learn something new. Scouts ask questions that I don't know how to answer. And that's when we go on the hunt for knowledge and we learn together. Thank you for giving me the opportunity to work with you. ~RTH
+Every time I work with Scouts on Personal Management Merit Badge, I learn something new. Scouts ask questions that I don't know how to answer. And that's when we go on the hunt for knowledge and we learn together. Thank you for giving me the opportunity to work with you.
 
 ###Questions
 Contact [Assistant Scoutmaster Raymond T. Hightower](http://rayhightower.com/contact/) (the form goes directly to his email account) if you have questions.
