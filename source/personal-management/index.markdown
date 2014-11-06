@@ -22,7 +22,7 @@ It takes at least thirteen weeks to earn Personal Management merit badge. The Sc
 
 Every Scout who completes Personal Management merit badge should be able to discuss the following people:
 
-* [Mellody Hobson](https://www.arielinvestments.com/our-team/)
+* [Mellody Hobson](https://www.arielinvestments.com/our-team/#hobson)
 * [Warren Buffett](http://www.berkshirehathaway.com/)
 * [Charlie Munger](http://www.berkshirehathaway.com/)
 * [John H. Johnson](http://www.thehistorymakers.com/biography/john-h-johnson-40)
