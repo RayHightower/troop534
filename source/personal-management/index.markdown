@@ -20,13 +20,13 @@ The symbolism of the badge is clear: Half dollar sign, half clock face. Time and
 ###What to Expect
 It takes at least thirteen weeks to earn Personal Management merit badge. The Scout is required to spend that time managing a budget and tracking their personal income and expenses.
 
-Every Scout who completes Personal Management merit badge should be able to discuss the following people:
+Every Scout who completes Personal Management merit badge should be able to discuss the following people in an investment context:
 
 * [Mellody Hobson](https://www.arielinvestments.com/our-team/#hobson)
 * [Warren Buffett](http://www.berkshirehathaway.com/)
-* [Charlie Munger](http://www.berkshirehathaway.com/)
 * [John H. Johnson](http://www.thehistorymakers.com/biography/john-h-johnson-40)
 * [A. G. Gaston](http://www.c-span.org/video/?180835-1/book-discussion-black-titan-g-gaston)
+* [Charlie Munger](http://www.berkshirehathaway.com/)
 * [LeBron James](http://www.fool.com/ecap/the_motley_fool/lebron-james-the-next-warren-buffett)
 
 ###How to Get Started
