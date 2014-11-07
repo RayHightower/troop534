@@ -42,7 +42,7 @@ Every member of Troop 534 who completes Personal Management merit badge should b
 5. Talk to Scouts who earned Personal Management Merit Badge before you. What can they tell you about the experience? 
 
 ###Additional Motivation
-Skills learned through Personal Management are enablers for entrepreneurship. Consider this story about Richard Branson, the UK-based entrepreneur.
+Skills learned through Personal Management are enablers for entrepreneurship. Consider this story about Richard Branson, the UK-based entrepreneur (as told to [James Clear](http://jamesclear.com/successful-people-start-before-they-feel-ready)).
 
 >I was in my late twenties, so I had a business, but nobody knew who I was at the time. I was headed to the Virgin Islands and I had a very pretty girl waiting for me, so I was, umm, determined to get there on time.
 >&nbsp;<br/><br/>
