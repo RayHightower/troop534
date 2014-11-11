@@ -1,11 +1,17 @@
 ---
 layout: page
 title: "downloads"
-comments: true
+comments: false
 sharing: true
 footer: true
 ---
 
+###Resources
+
+* [How to Earn Personal Management Merit Badge](/personal-management/)
+
+
+###PDFs to Download
 Useful documents in portable document format (PDF). If your computer
 does not have a PDF reader, you can get one for [free](http://get.adobe.com/reader/).
 
