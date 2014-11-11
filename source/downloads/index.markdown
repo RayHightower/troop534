@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "downloads"
+title: 
 comments: false
 sharing: true
 footer: true
 ---
 
-###Resources
+###Useful Links
 
+* [11 Rules for Life](/11-rules/)
 * [How to Earn Personal Management Merit Badge](/personal-management/)
 
 
