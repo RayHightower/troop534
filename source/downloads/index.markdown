@@ -2,8 +2,8 @@
 layout: page
 title: 
 comments: false
-sharing: true
-footer: true
+sharing: false
+footer: false
 ---
 
 ###Useful Links
