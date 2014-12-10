@@ -53,6 +53,8 @@ Skills learned through Personal Management are enablers for entrepreneurship. Co
 >~Richard Branson
 
 ###A Note from the Merit Badge Counselor
+Personal Management is not about getting rich. It is more important to manage the money you have, regardless of the amount.
+
 Every time I work with Scouts on Personal Management Merit Badge, I learn something new. Scouts ask questions that I don't know how to answer. And that's when we go on the hunt for knowledge and we learn together. Thank you for giving me the opportunity to work with you.
 
 ###Questions
