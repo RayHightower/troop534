@@ -9,5 +9,5 @@ The annual Troop 534 "Hey!" Reunion Breakfast will be held on Saturday, November
 
 Tickets are $10.00 in advance, $12.00 at the door.
 
-For more details, fill out the [contact form](/contact) Scoutmaster Emeritus Robert T. Sublette, Sr will get back to you. We look forward to seeing you!
+For more details, fill out the [contact form](/contact). Scoutmaster Emeritus Robert T. Sublette, Sr will get back to you. We look forward to seeing you!
 
