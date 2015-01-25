@@ -125,6 +125,8 @@ Vincent Gee
 
 James W. Palmer, Jr. 
 
+Martin L. Cook, Jr.
+
 
 ###National Conference Chief - National Order Of The Arrow 
 
