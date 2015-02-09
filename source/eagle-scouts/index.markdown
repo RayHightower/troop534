@@ -250,13 +250,13 @@ Check out <a href="/blog/2011/02/14/planting-seeds-and-building-leaders/">the vi
 78.     Matthew J. Bozeman</td><td>	January 17, 2015
 </td></tr>
 <tr><td>
-79.     Lesly Nazon Jr.</td><td>	January 21, 2015
+79.     Lesly E. Nazon Jr.</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
 80.     DeAndre M. Brown</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-81.     Joshua Esters</td><td>	January 21, 2015
+81.     Joshua A. Esters</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
 82.     Mylan A. Cook</td><td>	January 21, 2015
@@ -265,12 +265,12 @@ Check out <a href="/blog/2011/02/14/planting-seeds-and-building-leaders/">the vi
 83.     Miles S. A. Copeland</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-84.     Robert King</td><td>	February 8, 2015
+84.     Robert D. E. King</td><td>	February 8, 2015
 </td></tr>
 <tr><td>
-85.     Wynston Russell</td><td>	February 8, 2015
+85.     Wynston R. Russell</td><td>	February 8, 2015
 </td></tr>
 <tr><td>
-86.     Alton Johnson</td><td>	February 8, 2015
+86.     Alton A. Johnson</td><td>	February 8, 2015
 </td></tr>
 </table>
