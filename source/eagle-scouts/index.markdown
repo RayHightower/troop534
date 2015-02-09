@@ -244,38 +244,33 @@ Check out <a href="/blog/2011/02/14/planting-seeds-and-building-leaders/">the vi
 76.     Timothy Tucker</td><td>	February 10, 2013
 </td></tr>
 <tr><td>
-77.    Cameron Davis</td><td>	&nbsp;
+77.    Cameron W. Davis</td><td>	January 17, 2015
 </td></tr>
 <tr><td>
-78.     Matthew Bozeman</td><td>	&nbsp;
+78.     Matthew J. Bozeman</td><td>	January 17, 2015
 </td></tr>
 <tr><td>
-79.     Lesly Nazon Jr.</td><td>	&nbsp;
+79.     Lesly Nazon Jr.</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-80.     DeAndre Brown</td><td>	&nbsp;
+80.     DeAndre M. Brown</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-81.     Joshua Esters</td><td>	&nbsp;
+81.     Joshua Esters</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-82.     Mylan Cook</td><td>	&nbsp;
+82.     Mylan A. Cook</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-83.     Miles Copeland</td><td>	&nbsp;
+83.     Miles S. A. Copeland</td><td>	January 21, 2015
 </td></tr>
 <tr><td>
-84.     Robert King</td><td>	&nbsp;
+84.     Robert King</td><td>	February 8, 2015
 </td></tr>
 <tr><td>
-85.     Wynston Russell</td><td>	&nbsp;
+85.     Wynston Russell</td><td>	February 8, 2015
 </td></tr>
 <tr><td>
-86.     Alton Johnson</td><td>	&nbsp;
+86.     Alton Johnson</td><td>	February 8, 2015
 </td></tr>
 </table>
-
-Cameron Davis #77 Matthew Bozeman #78 Lesly Nazon Jr. #79 DeAndre Brown #80 Joshua Esters #81 Mylan Cook #82 Miles Copeland #83 Robert King #84 Wynston Russell #85 Alton Johnson #86
-
-
-
