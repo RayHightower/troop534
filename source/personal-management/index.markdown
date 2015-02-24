@@ -4,7 +4,7 @@ title: "How to Earn Personal Management Merit Badge"
 date: 2014-11-03 18:25
 comments: false
 sharing: false
-footer: true
+footer: false
 ---
 {% imgcap right /images/personal_management.jpg Time and money. %}
 Personal Management Merit Badge teaches all of us (scouts and instructors) to do the following:
