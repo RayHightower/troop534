@@ -4,7 +4,7 @@ title: "Eagle Scouts"
 date: 2012-11-24 16:07
 comments: true
 sharing: true
-footer: true
+footer: false
 ---
 <img src="/images/eagle-medal.jpg" width="250" height="302" align="left" title="Eagle Scout Medal and Badge" alt="Eagle Scout Medal and Badge">
 The following members of our Troop have earned the highest rank in Scouting: Eagle.  
