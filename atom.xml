@@ -4,7 +4,7 @@
   <title><![CDATA[Troop534.org]]></title>
   <link href="http://troop534.org/atom.xml" rel="self"/>
   <link href="http://troop534.org/"/>
-  <updated>2015-03-07T16:19:15-06:00</updated>
+  <updated>2015-03-09T23:04:16-05:00</updated>
   <id>http://troop534.org/</id>
   <author>
     <name><![CDATA[Boy Scouts of America - Troop 534 "Hey!"]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Eagles Return]]></title>
+    <link href="http://troop534.org/blog/2015/03/09/eagles-return/"/>
+    <updated>2015-03-09T22:56:00-05:00</updated>
+    <id>http://troop534.org/blog/2015/03/09/eagles-return</id>
+    <content type="html"><![CDATA[<p><span class='caption-wrapper'><img class='caption' src='http://troop534.org/images/banks_collins_woods_love.jpg' width='' height='' title='Scoutmaster Banks with returning Eagles: Collins, Woods, and Love.'><span class='caption-text'>Scoutmaster Banks with returning Eagles: Collins, Woods, and Love.</span></span></p>
+
+<p>Three relatively recent (2008-2009) Eagles paid a surprise visit to Troop 534 &#8220;Hey!&#8221; on Monday evening. The returning Eagles are Darnell Collins, Kendall Woods, and Stuart Love.</p>
+
+<p>Scoutmaster Banks and the entire troop family were happy to greet the returning Eagles. We look forward to seeing them again. Perhaps in uniform!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Annual Troop Reunion Breakfast]]></title>
@@ -410,26 +423,6 @@ href="http://kohlskids.com">KohlsKids.com</a> before March 15, 2013.</p>
 
 
 <p>In summary, minimally invasive surgery enables patients to recover faster. To learn more, consult your physician.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Arduino Imagination]]></title>
-    <link href="http://troop534.org/blog/2012/12/13/arduino-imagination/"/>
-    <updated>2012-12-13T17:54:00-06:00</updated>
-    <id>http://troop534.org/blog/2012/12/13/arduino-imagination</id>
-    <content type="html"><![CDATA[<p>Members of Explorer Post 2534 are building projects based on the <a href="http://arduino.cc">Arduino</a> microcontroller. What is Arduino? Several Arduino-based projects are shown in this 15-minute video:</p>
-
-<center><iframe name="arduinoimagination" width="560" height="315" src="http://www.youtube.com/embed/UoBUXOOdLXY?rel=0" frameborder="0" allowfullscreen></iframe></center>
-
-
-<!--more-->
-
-
-<p><img src="http://troop534.org/images/arduino_explorers.jpg" width="400" height="255" align="right" alt="Presenting Arduino Projects" title="Presenting Arduino Projects">
-After being introduced to the Arduino, each member of the Post was given some time to research possible projects for the device. One by one they stood before their peers to describe their ideas.</p>
-
-<p>Massimo Banzi, co-founder of the Arduino Project, says it best: &#8220;If you have an idea, just go and make it. You don&#8217;t need anybody&#8217;s permission to create something great.&#8221;</p>
 ]]></content>
   </entry>
   
