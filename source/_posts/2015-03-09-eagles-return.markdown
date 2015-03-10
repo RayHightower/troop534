@@ -7,6 +7,6 @@ categories:
 ---
 {% imgcap /images/banks_collins_woods_love.jpg Scoutmaster Banks with returning Eagles: Collins, Woods, and Love. %}
 
-Three relatively recent (2008-2009) Eagles paid a surprise visit to Troop 534 "Hey!" on Monday evening. The returning Eagles are Darnell Collins, Kendall Woods, and Stuart Love.
+Three relatively recent (2008-2009) Eagle Scouts paid a surprise visit to Troop 534 "Hey!" on Monday evening. The returning Eagles are Darnell Collins, Kendall Woods, and Stuart Love.
 
 Scoutmaster Banks and the entire troop family were happy to greet the returning Eagles. We look forward to seeing them again. Perhaps in uniform!
