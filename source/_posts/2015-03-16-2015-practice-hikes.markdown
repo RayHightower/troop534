@@ -15,7 +15,7 @@ We will follow the same path as last year’s first hike:
 * Turnaround: Shedd Acquarium
 * End: 39th Street & Lake Shore Drive
 * Round-trip distance = 6.2 miles.
-* Estimated Completion time: 11am, depending on the pace of the slowest Scout
+* Estimated Completion time: 11am, depending on the slowest hiker.
 * Please arrive before 8am. We will spend ten minutes stretching, and we will hit the trail immediately after that.
  
 ### What to Bring: Be Prepared
