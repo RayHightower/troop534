@@ -5,7 +5,8 @@ date: 2015-03-16 23:57
 comments: true
 categories: 
 ---
-{% imgcap middle /images/practice_hike_2015.jpg Route for the 1st practice hike path. %}
+{% imgcap middle /images/practice_hike_2015.jpg Route for the 1st practice hike. %}
+
 The first practice hike for the Lincoln Trail will begin at 8:00am on Saturday, March 28, 2015. We will meet in the parking lot at 39th and Lake Shore Drive.
 <!--more-->
 We will follow the same path as last year’s first hike:
@@ -13,7 +14,7 @@ We will follow the same path as last year’s first hike:
 * Start: 39th Street & Lake Shore Drive
 * Turnaround: Shedd Acquarium
 * End: 39th Street & Lake Shore Drive
-* Distance = 6.2 miles.
+* Round-trip distance = 6.2 miles.
 * Estimated Completion time: 11am, depending on the pace of the slowest Scout
 * Please arrive before 8am. We will spend ten minutes stretching, and we will hit the trail immediately after that.
  
