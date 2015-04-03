@@ -5,7 +5,7 @@ date: 2015-03-16 23:57
 comments: true
 categories: 
 ---
-{% imgcap middle /images/practice_hike_2015.jpg Route for the 1st practice hike. %}
+{% imgcap middle /images/practice_hike_2015.jpg Route (blue dots) for the 1st practice hike. %}
 
 The first practice hike for the Lincoln Trail will begin at 8:00am on Saturday, March 28, 2015. We will meet in the parking lot at 39th and Lake Shore Drive.
 <!--more-->
