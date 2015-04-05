@@ -5,7 +5,7 @@ date: 2015-04-05 16:15
 comments: true
 categories: 
 ---
-{% imgcap middle /images/practice_hike_2015apr04.jpg Scouts and parents from Troop 534. %}
+{% imgcap middle /images/practice_hike_2015apr04.jpg Scouts and parents from Troop 534 "Hey!" %}
 
 Scouts, parents, and leaders from Troop 534 "Hey!" gathered at Lake Shore Drive for our second Lincoln Trail Practice Hike on Saturday, April 4, 2015.
 <!--more-->
